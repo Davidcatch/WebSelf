@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-96 {
+  width: 30rem;
+}
+
+#pos {
+  background: linear-gradient(100deg, #40ffaa, #4079ff, #40ffaa, #4079ff, #40ffaa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
