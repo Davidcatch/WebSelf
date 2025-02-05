@@ -12,80 +12,75 @@
           <u><b>Senin</b></u>
         </h1>
         <div class="flex gap-5">
-          <p>12:30 - 15:30</p>
-          <p>Struktur Data | L-Program</p>
+          <p>08:30 - 10:30</p>
+          <p>Proyek Tingkat II | R</p>
         </div>
-        <p class="text-center">Pak Yudha</p>
+        <p class="text-center">D</p>
       </div>
       <div class="selasa">
         <h1>
           <u><b>Selasa</b></u>
         </h1>
         <div class="flex gap-5">
-          <p>12:30 - 14:30</p>
-          <p>Analisis Kompleksitas Algoritma | Dc-301</p>
+          <p>07:30 - 10:30</p>
+          <p>Basis Data | R</p>
         </div>
-        <p class="text-center">Bu Septi</p>
+        <p class="text-center">D</p>
         <div class="flex gap-5">
-          <p>14:30 - 16:30</p>
-          <p>Keprofesian Rekayasa Perangkat Lunak | Dc-302</p>
+          <p>10:30 - 13:30</p>
+          <p>Arsitektur Dan Desain Perangkat Lunak | R</p>
         </div>
-        <p class="text-center">Pak Rifki</p>
+        <p class="text-center">D</p>
         <div class="flex gap-5">
-          <p>16:30 - 19:30</p>
-          <p>Logika Matematika | Iot-101</p>
+          <p>12:30 - 15:30</p>
+          <p>Konstruksi Perangkat Lunak | R</p>
         </div>
-        <p class="text-center">Bu Ambar</p>
+        <p class="text-center">D</p>
       </div>
       <div class="Rabu">
         <h1>
           <u><b>Rabu</b></u>
         </h1>
         <div class="flex gap-5">
-          <p>15:30 - 18:30</p>
-          <p>Manajemen Proses Bisnis | Rek-305</p>
+          <p>07:30 - 10:30</p>
+          <p>Arsitektur Dan Desain Perangkat Lunak | R</p>
         </div>
-        <p class="text-center">Pak Herliana</p>
+        <p class="text-center">D</p>
+        <div class="flex gap-5">
+          <p>10:30 - 13:30</p>
+          <p>Rekayasa Kebutuhan Perangkat Lunak | R</p>
+        </div>
+        <p class="text-center">D</p>
+        <div class="flex gap-5">
+          <p>13:30 - 16:30</p>
+          <p>Konstruksi Perangkat Lunak | R</p>
+        </div>
+        <p class="text-center">D</p>
       </div>
       <div class="Kamis">
         <h1>
           <u><b>Kamis</b></u>
         </h1>
         <div class="flex gap-5">
-          <p>06:30 - 09:30</p>
-          <p>Proses Perangkat Lunak | Rek-302</p>
+          <p>10:30 - 13:30</p>
+          <p>Basis Data | R</p>
         </div>
-        <p class="text-center">Pak Abed</p>
+        <p class="text-center">D</p>
         <div class="flex gap-5">
-          <p>12:30 - 15:30</p>
-          <p>Dasar Pemrograman Berorientasi Objek | L-Program</p>
+          <p>13:30 - 16:30</p>
+          <p>Interaksi Manusia Komputer | R</p>
         </div>
-        <p class="text-center">Bu Gita</p>
+        <p class="text-center">D</p>
       </div>
       <div class="Jumat">
         <h1>
           <u><b>Jumat</b></u>
         </h1>
         <div class="flex gap-5">
-          <p>06:30 - 09:30</p>
-          <p>Struktur Data | Dc-302</p>
+          <p>08:30 - 11:30</p>
+          <p>Pemodelan Perangkat Lunak | R</p>
         </div>
-        <p class="text-center">Pak Yudha</p>
-        <div class="flex gap-5">
-          <p>09:30 - 12:30</p>
-          <p>Dasar Pemrograman Berorientasi Objek | Iot-202</p>
-        </div>
-        <p class="text-center">Bu Gita</p>
-        <div class="flex gap-5">
-          <p>12:30 - 14:30</p>
-          <p>Teknologi Perangkat Lunak Untuk Masyrakat | Rek-207</p>
-        </div>
-        <p class="text-center">Pak Amruh</p>
-        <div class="flex gap-5">
-          <p>16:30 - 18:30</p>
-          <p>Pengantar Rekayasa Perangkat Lunak | Rek-204</p>
-        </div>
-        <p class="text-center">Pak Arif</p>
+        <p class="text-center">D</p>
       </div>
     </div>
   </section>
