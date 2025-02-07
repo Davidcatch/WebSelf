@@ -8,8 +8,14 @@
         >
           Front End Developer
         </h2>
-        <h1 class="text-5xl"><b>Welcome To Home,</b> Raihan.</h1>
-        <p class="w-96 text-xl leading-tight pt-2">Lorem ipsum dolor sit amet consectetur. Dapibus dictumst dignissim gravida turpis lacus id amet turpis. Aliquam diam dignissim est fringilla scelerisque tellus pharetra mauris.</p>
+        <h1 class="txt text-5xl flex gap-2">
+          <b>Welcome To Home,</b>
+          <p class="raihan font-semibold">Raihan.</p>
+        </h1>
+        <p class="w-96 text-xl leading-tight pt-2">
+          Halo, Selamat Datang di Webself apa saja menu yang ada di webself ini yang pertama ada menu beranda yang isinya pengucapan selamat datang, yang kedua ada schedule atau jadwal matakuliah, yang ketiga ada todo list atau untuk
+          mencatat tugas, yang keempat ada about atau tentang website ini.
+        </p>
         <div class="logo flex gap-3 mt-10 ml-32">
           <div class="cards">
             <figure class="card">

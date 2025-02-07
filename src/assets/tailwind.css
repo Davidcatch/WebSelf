@@ -2,17 +2,39 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+nav ul li {
+  font-family: 'Poppins', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .w-96 {
-  width: 30rem;
+  font-family: 'Roboto', serif;
+  font-weight: 500;
+  color: #03346e;
+  width: 45rem;
 }
 
 #pos {
+  font-family: 'Roboto Mono', serif;
+  font-weight: 400;
+  font-style: medium;
   background: linear-gradient(100deg, #40ffaa, #4079ff, #40ffaa, #4079ff, #40ffaa);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
+.txt,
+b {
+  font-family: 'Roboto', serif;
+  font-weight: 700;
+}
+
 .cards {
+  cursor: Pointer;
   perspective: 500px;
 }
 
@@ -42,4 +64,34 @@
 
 .card:hover .card_title {
   transform: translateZ(200px);
+}
+
+.darkmode {
+  background-color: #0b192c;
+  color: white;
+}
+
+.raihan {
+  font-family: 'Roboto', serif;
+  color: #608bc1;
+}
+
+.judul {
+  font-family: 'Roboto', serif;
+  font-weight: 700;
+}
+
+.jadwal {
+  font-family: 'Roboto', serif;
+  font-weight: 600;
+}
+
+.tw {
+  font-family: 'Roboto', serif;
+  font-weight: 600;
+}
+
+p.isi {
+  font-family: 'Roboto', serif;
+  font-weight: 500;
 }

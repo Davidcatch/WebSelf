@@ -1,6 +1,9 @@
 <template>
   <div>
-    <header class="bg-gray-800 text-white p-4">
+    <header
+      ref="header"
+      class="p-4"
+    >
       <div class="container mx-auto flex justify-between">
         <img
           src="./assets/img/Logo2.png"
@@ -47,6 +50,14 @@
 
 <script>
 export default {
-  name: 'App',
+  name: 'app',
+  mounted() {
+    // Set the background color when the component is mounted
+    document.body.style.backgroundColor = '#F1F0E8';
+
+    // Access the <nav> element using $refs and set its background color
+    this.$refs.header.style.backgroundColor = '#e5e1da';
+    this.$refs.header.style.color = 'black'; // Optional: Change text color
+  },
 };
 </script>
